@@ -1,6 +1,7 @@
-/* Um dado material radiotivo perde 25% de sua massa a cada 30 segundoCrie um algoritmo que calcule iterativamente e imprima o tempo necessário para que
-a massa deste material se torne menor que 0,10 gramas. O usuários entrará com a massa (em gramas) 
-do material radioativo. O tempo deve ser impresso em horas minutos e segundos
+/*Um material radioativo perde 25% de sua massa a cada 30 segundos. 
+Crie um algoritmo que calcule iterativamente e exiba o tempo necessário para que a massa desse material se torne menor que 0,10 gramas. 
+O usuário fornecerá a massa inicial (em gramas) do material radioativo.
+O tempo deve ser exibido em horas, minutos e segundos.
 */
 
 #include <iostream>
