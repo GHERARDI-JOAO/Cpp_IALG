@@ -1,5 +1,5 @@
-/*  Identifique o maior e o segundo maior valor em um conjunto de 7 elementos inteiros.
-Além disso, deve ser apresentada a média dos demais elementos que compõem o conjunto.
+/* Encontre o maior e o segundo maior valor em um conjunto de 7 números inteiros.
+Além disso, calcule e exiba a média dos outros elementos do conjunto.
 */
 
 #include <iostream>
